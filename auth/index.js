@@ -12,7 +12,7 @@ dotenv.config();
 app.use(express.json());
 
 // Routes
-app.use("/api/user", authRouter);
+app.use("/api/auth", authRouter);
 app.use("/api/posts", userRouter);
 
 app.listen(port, () => {
