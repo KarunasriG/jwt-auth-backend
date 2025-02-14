@@ -124,6 +124,16 @@ Feel free to fork this repo, create a branch, and submit a pull request with imp
 
 ---
 
+---
+
+## **License**  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+---
+
 ## ⭐ **Show Some Support!**
 If you find this helpful, please ⭐ the repository! 😊
+
 ```
