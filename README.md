@@ -114,6 +114,7 @@ Authorization: Bearer your_jwt_token_here
 ├── index.js            # Main entry point
 ├── package.json       # Dependencies and scripts
 |
+├── LICENSE      
 └── README.md            # Project documentation
 ```
 
